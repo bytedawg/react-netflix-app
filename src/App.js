@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
     </div>
-  ); //remove
+  ); 
 }
 
 export default App;
